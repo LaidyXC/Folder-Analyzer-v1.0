@@ -14,9 +14,10 @@
 
 
 ## How to use
-1. Download the Folder or Files
-2. Open the bat file
-3. Type the path you wish to analyze, for example "c:\program files"
+1. Download the Files
+2. Make a folder and put both files in it
+3. Open the bat file
+4. Type the path you wish to analyze, for example "c:\program files"
 
 ## Known issues
 - It cannot access restricted folders/files
