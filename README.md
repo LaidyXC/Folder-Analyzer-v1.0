@@ -8,6 +8,7 @@
 (In-dev)
 
 ## Preview:
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/f6e08ae7-bcd2-4080-9394-8a22b22e6acc" />
 
 
 ## Requirements
